@@ -12,10 +12,18 @@ const data = {
       children: [
         { name: "Nyabel Mawut", attributes: { title: "Great Granddaughter" } },
         { name: "Ajok Mawut", attributes: { title: "Great Granddaughter" } },
-        { name: "Malual Mawut", attributes: { title: "Great Grandson" } },
         { name: "Akol Mawut", attributes: { title: "Great Grandson" } },
       ],
     },
+
+    {
+      name: "Achuei Monydum",
+      attributes: { title: "Wife of Mawut Malual" },
+      children: [
+        { name: "Malual Mawut", attributes: { title: "Great Grandson" } },
+      ],
+    },
+
     {
       name: "Nyamou Malek Piok",
       attributes: { title: "Wife of Mawut Malual" },

@@ -13,10 +13,7 @@ const data = {
         { name: "Mabur Mathiang", attributes: { title: "Great Grandson" } },
         { name: "Malual Mathiang", attributes: { title: "Great Grandson" } },
         { name: "Adwai Mathiang", attributes: { title: "Great Grandson" } },
-        {
-          name: "Nyantet Mathiang",
-          attributes: { title: "Great Granddaughter" },
-        },
+        {name: "Nyantet Mathiang", attributes: { title: "Great Granddaughter" } },
         { name: "Deng Mathiang", attributes: { title: "Great Grandson" } },
       ],
     },
